@@ -1,1 +1,1 @@
-echo "Building the Project : %date% : %time%"
+echo "Building the Project from a script in git : %date% : %time%"

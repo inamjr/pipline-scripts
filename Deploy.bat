@@ -1,0 +1,1 @@
+echo "Deploying from a script in git hub : %date% : %time%"
